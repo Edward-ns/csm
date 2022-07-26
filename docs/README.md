@@ -80,7 +80,11 @@
 
 ### Business Objective(s)
 
-> Long>term goals identified by a company. Through the duration of a customer relationship, the goal is to help customers achieve business objectives.
+> Long term goals identified by a company. Through the duration of a customer relationship, the goal is to help customers achieve business objectives.
+
+### BTP (Business Technology Platform)
+
+> SAP Business Technology Platform (SAP BTP) is the platform for the intelligent enterprise that helps you accelerate business outcomes with integration, data to value, and extensibility. For this SAP offers two different consumption models. Get started right away at no expense with Pay-As-You-Go for SAP BTP, and then transition to Cloud Platform Enterprise Agreement (CPEA) when you have predictable usage.
 
 ## C
 
